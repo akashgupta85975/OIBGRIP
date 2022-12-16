@@ -20,7 +20,7 @@ class ATM1 implements ATM{
         int p =sc.nextInt();
         System.out.println("*******************************");
         
-        if(u.equals("Priyanshi") && p==9770){
+        if(u.equals("Akash") && p==1234){
            f=true;
            
            while(f==true){
